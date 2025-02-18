@@ -151,7 +151,7 @@ For questions, feedback, or support, please reach out to:
 
     JC
 
-    Email: mailtojosh5@gmail.com
+    Email: joshojosh7@gmail.com
 
     GitHub: innovationprotolab
 
