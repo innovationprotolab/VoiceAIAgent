@@ -17,7 +17,8 @@ This AI-powered agent listens to your voice input, processes the commands, and p
     Customizable Commands: Add or modify voice commands to suit your needs (via configuration files).
 
     User-Friendly Interface: Easy-to-use GUI for seamless interaction.
-    ![Web Automation AI Demo](VoiceAgentAI.PNG)
+    
+    ![Web Voice Agent Demo](VoiceAgentAI.PNG)
 
 
 Web Automation AI Demo
