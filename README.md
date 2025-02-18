@@ -27,7 +27,7 @@ Web Voice Agent AI Demo
 
 https://youtu.be/dGgnZidbkHM?si=EWmhoFG6KdR9eC23
 
-Example of Web Automation AI in action.
+Example of Voice Web Automation AI in action.
 Installation
 
 # Download
