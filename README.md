@@ -130,10 +130,10 @@ Acknowledgments
 
 For questions, feedback, or support, please reach out to:
 
-    Your Name
+    JC
 
-    Email: your.email@example.com
+    Email: mailtojosh5@gmail.com
 
-    GitHub: your-username
+    GitHub: innovationprotolab
 
 # Enjoy using the Web Voice AI Agent! 🚀
