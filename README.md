@@ -18,10 +18,12 @@ This AI-powered agent listens to your voice input, processes the commands, and p
 
     User-Friendly Interface: Easy-to-use GUI for seamless interaction.
     
-    ![Web Voice Agent Demo](VoiceAgentAI.PNG)
+    
 
 
-Web Automation AI Demo
+Web Voice Agent AI Demo
+
+![Web Voice Agent Demo](VoiceAgentAI.PNG)
 
 https://youtu.be/aLuqJ8fyoAI?si=QKle09YthlCR755d
 
